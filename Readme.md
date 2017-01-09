@@ -24,3 +24,6 @@ React 공부 할 만한 사이트
   > [dev.log] -> [tech.log] -> [React.js]
 
   > [dev.log] -> [tutorials.log] -> [React.js]
+
+  > [같은 사람이 동영상으로 찍어서 올린 강좌 ][link3]
+[link3]: https://www.inflearn.com/course/react-%EA%B0%95%EC%A2%8C-velopert/?action=curriculum
