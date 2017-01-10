@@ -36,3 +36,6 @@ React 공부 할 만한 사이트
   [link6]: https://www.youtube.com/watch?v=mwNATxfUsgI
   > [리액트와 파이어베이스 시작하기 - 파이어캐스트 part2 - youtube][link7]
   [link7]: https://www.youtube.com/watch?v=p4XTMvagQ2Q
+
+4. [리액트 소개 - toast meetup 블로그][link8]
+[link8]: http://meetup.toast.com/posts/100
