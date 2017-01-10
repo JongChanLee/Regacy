@@ -27,3 +27,12 @@ React 공부 할 만한 사이트
 
   > [같은 사람이 동영상으로 찍어서 올린 강좌 ][link3]
 [link3]: https://www.inflearn.com/course/react-%EA%B0%95%EC%A2%8C-velopert/?action=curriculum
+  >  > [YouTube List][link4]
+  [link4]: https://www.youtube.com/playlist?list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC
+  
+3. [react with firebase - firebase 홈페이지][link5]
+[link5]: https://firebase.googleblog.com/2014/05/using-firebase-with-reactjs.html?utm_campaign=Firebase_featureoverview_education_general_en_08-16-16&utm_source=Firebase&utm_medium=yt-desc
+  > [리액트와 파이어베이스 시작하기 - 파이어캐스트 part1 - youtube][link6]
+  [link6]: https://www.youtube.com/watch?v=mwNATxfUsgI
+  > [리액트와 파이어베이스 시작하기 - 파이어캐스트 part2 - youtube][link7]
+  [link7]: https://www.youtube.com/watch?v=p4XTMvagQ2Q
